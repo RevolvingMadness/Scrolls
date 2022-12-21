@@ -1,0 +1,8 @@
+{
+  "item.scrolls.teleport_scroll": "Teleport Scroll",
+  "item.scrolls.blank_scroll": "Blank Scroll",
+
+  "block.scrolls.teleport_scroll_block": "Teleport Scroll Block",
+
+  "itemGroup.scrolls.scrolls_tab": "Scrolls"
+}

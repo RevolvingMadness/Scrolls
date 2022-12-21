@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "scrolls:block/teleport_scroll_block" }
+  }
+}
