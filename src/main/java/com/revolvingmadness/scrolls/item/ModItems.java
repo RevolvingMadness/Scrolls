@@ -22,6 +22,7 @@ public class ModItems {
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(Scrolls.MOD_ID, name), item);
     }
+
     public static void registerModItems() {
         Scrolls.LOGGER.info("Registering Mod Items for " + Scrolls.MOD_ID);
     }
